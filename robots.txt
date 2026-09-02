@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baadsh99.github.io/hood5k-site/sitemap.xml
